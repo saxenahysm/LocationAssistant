@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="MyDatePickerDialogTheme" parent="android:Theme.Material.Light.Dialog.NoActionBar" tools:ignore="NewApi">
+        <item name="android:colorAccent">@color/purple_200</item>
+    </style>
+</resources>
